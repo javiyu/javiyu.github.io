@@ -5,8 +5,6 @@ date:   2022-03-04 08:00:00 +0100
 categories: ruby rubocop
 ---
 
-# How to create a RuboCop custom cops
-
 ## Introduction
 
 Ruby is a highly dynamic language. As long as the syntax of the code you write is correct, the program will start running until it finishes or reaches a statement that causes a runtime error. The developer have a lot of freedom to choose how the program interact with the different objects. Since there is not static type check ruby community usually relay a lot on [unit testing](https://en.wikipedia.org/wiki/Unit_testing).
