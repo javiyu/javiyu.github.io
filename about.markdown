@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am Javier Jiménez, a spanish software engineer with more than 10 years of experience.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am a strong fan of remote development, I think is the best way to get in contact with bright minds all over the world.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I have a strong knowledge of web technologies. I consider myself a very pragmatic and product focused developer. I have lead small teams. I have contributed to a lot of Ruby on Rails projects, I have experience with Node.js, Go and I have done frontend development (React, CSS) as well.
 
 
-[jekyll-organization]: https://github.com/jekyll
+If you want to get in contact, please reach me through linkedin or the email address in the footer.
