@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Dev Blog
+title: BLOG
 email: info@spacebay.net
 description: >- # this means to ignore newlines until "baseurl:"
   Blog about programming, mostly (but not limited to) about Ruby on Rails and React.
@@ -27,9 +27,22 @@ url: "https://blog.spacebay.net"
 github_username:  javiyu
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
+
+defaults:
+  home:
+    banner:
+      image: "https://images.pexels.com/photos/574073/pexels-photo-574073.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+      height: "320px"
+
+header_pages:
+  - index.html
+  - about.markdown
+
+# Google analytics
+# google_analytics: [Tracking ID]
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: about
 title: About me
 permalink: /about/
 ---
+
+# About me
 
 I am Javier Jiménez, a spanish software engineer with more than 10 years of experience.
 
