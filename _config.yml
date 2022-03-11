@@ -43,7 +43,7 @@ header_pages:
   - about.markdown
 
 # Google analytics
-google_analytics: "G-NDEG72SNY2"
+google_analytics: "UA-222717360-1"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
