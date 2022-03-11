@@ -43,7 +43,7 @@ header_pages:
   - about.markdown
 
 # Google analytics
-# google_analytics: [Tracking ID]
+google_analytics: "G-QX94527K9W"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
