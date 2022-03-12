@@ -21,7 +21,7 @@
 title: BLOG
 email: info@spacebay.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog about programming, mostly (but not limited to) about Ruby on Rails and React.
+  Blog about programming and technology in general.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.spacebay.net"
 github_username:  javiyu

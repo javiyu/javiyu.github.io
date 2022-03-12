@@ -4,5 +4,13 @@
 
 layout: home
 heading: 'Personal Blog'
-subheading: 'Blog about programming, mostly (but not limited to) about Ruby on Rails and React'
+subheading: 'Blog about programming and technology in general'
 ---
+
+<style>
+  .page-banner .page-banner-inner {
+    background: #000000bd;
+    padding: 10px 20px;
+    border-radius: 10px;
+  }
+</style>
