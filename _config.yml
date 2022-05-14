@@ -64,3 +64,5 @@ google_analytics: "UA-222717360-1"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+theme: jekyll-theme-dinky
