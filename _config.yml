@@ -21,22 +21,15 @@
 title: BLOG
 email: info@spacebay.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog about programming and technology in general.
+  Software development, technology and geek stuff
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.spacebay.net"
 github_username:  javiyu
 
-# Build settings
-# theme: jekyll-theme-yat
-remote_theme: "jeffreytse/jekyll-theme-yat"
+theme: jekyll-theme-dinky
+
 plugins:
   - jekyll-feed
-
-defaults:
-  home:
-    banner:
-      image: "https://blog.spacebay.net/assets/images/laptop.jpg"
-      height: "320px"
 
 header_pages:
   - index.html
@@ -64,5 +57,3 @@ google_analytics: "UA-222717360-1"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-theme: jekyll-theme-dinky

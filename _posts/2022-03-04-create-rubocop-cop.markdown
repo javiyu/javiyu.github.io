@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "How to create a RuboCop custom cop"
 date:   2022-03-04 08:00:00 +0100
 categories: ruby rubocop
