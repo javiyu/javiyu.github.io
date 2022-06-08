@@ -1,3 +1,9 @@
+---
+title:  "Playing with Go: Using SQLite as storage and Redis as protocol"
+date:   2022-06-07 08:00:00 +0100
+categories: go sqlite
+---
+
 # Playing with Go: Using SQLite as storage and Redis as protocol
 
 ## Introduction
